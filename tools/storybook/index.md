@@ -1,8 +1,11 @@
 ---
-title: "Storybook"
-description: ""
+title: "`Storybook`"
+description: "Создаём витрину компонентов для удобного тестирования и разработки"
 authors:
-  - AtkishkinVlad
+  - atkishkinvlad
+keywords:
+  - сторибук
+  - тестирование компонентов
 related:
   - ""
 tags:
